@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "notes": "新增邮箱登录、作者资料、匿名投稿、主题与默认选项、视频播放设置、数据同步、缓存管理、问题反馈和在线更新。",
+  "apkUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/download/v1.0.1/washou-v1.0.1.apk",
+  "releaseUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/tag/v1.0.1",
+  "sha256": "ce965eee319b238e3dcee0fc919819a7421bf112d0b77c6b11fa1fa37c34f0a5"
+}
