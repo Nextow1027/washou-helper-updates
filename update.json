@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "notes": "问题反馈支持上传图片；后台支持删除反馈并同步删除云端图片；修复地图标点频繁保存时云端同步失败的问题。",
-  "apkUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/download/v1.0.2/washou-v1.0.2.apk",
-  "releaseUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/tag/v1.0.2",
-  "sha256": "8ee59621836998a390c84eaae0242ebaffaaf1e6f56fb86fe8079a561c0d3b1c"
+  "version": "1.0.4",
+  "notes": "检查更新改为弹窗提示并跳转浏览器下载；优化设置页面布局；修复已知问题。",
+  "apkUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/download/v1.0.4/washou-v1.0.4.apk",
+  "releaseUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/tag/v1.0.4",
+  "sha256": "f173b6a9635ffb7f552c1d0f4d6e01433ed4d41bbe925ffd10a8170c84d05d64"
 }
