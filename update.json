@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "notes": "检查更新改为弹窗提示并跳转浏览器下载；优化设置页面布局；修复已知问题。",
-  "apkUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/download/v1.0.4/washou-v1.0.4.apk",
-  "releaseUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/tag/v1.0.4",
-  "sha256": "f173b6a9635ffb7f552c1d0f4d6e01433ed4d41bbe925ffd10a8170c84d05d64"
+  "version": "1.0.5",
+  "notes": "同步 iOS 端已有功能到 Android：新增端游/手游入口、端游地图与角色、提交 A/B/C 点选项、收藏卡片缩略图、作者资料联动选项、注册确认密码，并修复审核通过后仍显示待审核的问题。",
+  "apkUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/download/v1.0.5/washou-v1.0.5.apk",
+  "releaseUrl": "https://github.com/Nextow1027/washou-helper-updates/releases/tag/v1.0.5",
+  "sha256": "bb963fcd8f418941b7fb0f4256220fe5f0030c606bcddd5d1f351822d5cd34cc"
 }
